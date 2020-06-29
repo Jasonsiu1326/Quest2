@@ -1,8 +1,32 @@
 #main {
     font-size: 25px;
     font-family: Helvetica;
+    color:  yellow;
 }
 #first {
     font-size: 45px;
+    color: yellow;
 }
+
+#whole {
+    background-image:url(black-lives-matter-youtube-donate-01.jpg);
+    background-position: left;
+   
+}
+
+#second{
+    font-size:45px;
+    font-family: Helvetica;
+    color: yellow;
+}
+
+
+
+#third{
+    font-size:25px;
+    font-family: Helvetica;
+    color: yellow;
+    font-weight: bold;
+}
+
 
